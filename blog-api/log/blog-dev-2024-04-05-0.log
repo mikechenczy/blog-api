@@ -1,0 +1,7 @@
+2024-04-05 20:39:55.339  INFO 16716 --- [restartedMain] top.naccl.BlogApiApplication             : Starting BlogApiApplication on DESKTOP-3IMQR2L with PID 16716 (E:\Program\NBlog\blog-api\target\classes started by Mike_Chen in E:\Program\NBlog\blog-api)
+2024-04-05 20:39:55.340 DEBUG 16716 --- [restartedMain] top.naccl.BlogApiApplication             : Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2024-04-05 20:39:55.340  INFO 16716 --- [restartedMain] top.naccl.BlogApiApplication             : The following profiles are active: dev
+2024-04-05 20:39:55.403  INFO 16716 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-04-05 20:39:55.404  INFO 16716 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-04-05 20:39:55.928  INFO 16716 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2024-04-05 20:39:55.930  INFO 16716 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
